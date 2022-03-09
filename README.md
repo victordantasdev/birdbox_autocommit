@@ -25,3 +25,9 @@ or
 ```bash
 source ~/.bashrc
 ```
+
+### **On birbox directory type**
+
+```bash
+git add . && gc
+```
